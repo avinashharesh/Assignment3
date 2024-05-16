@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "691197561593",
+    "firebase_url": "https://expensetracker-9d66d-default-rtdb.firebaseio.com",
+    "project_id": "expensetracker-9d66d",
+    "storage_bucket": "expensetracker-9d66d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691197561593:android:34d41b322beee509d43028",
+        "android_client_info": {
+          "package_name": "com.example.assignment3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691197561593-metk1k4olg1af138v4a1fdmilgcbs74s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assignment3",
+            "certificate_hash": "f42f0237dce229480098be69353ed7943e5015bb"
+          }
+        },
+        {
+          "client_id": "691197561593-gcovmqu6qtdcdmfsc2mu4cvuuc5bkja4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdXHoA2PvOYbmFPa-WWALPTHja0iQapHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691197561593-gcovmqu6qtdcdmfsc2mu4cvuuc5bkja4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691197561593:android:61b629b476d92420d43028",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691197561593-gcovmqu6qtdcdmfsc2mu4cvuuc5bkja4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdXHoA2PvOYbmFPa-WWALPTHja0iQapHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691197561593-gcovmqu6qtdcdmfsc2mu4cvuuc5bkja4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691197561593:android:e8e74d9094ceb678d43028",
+        "android_client_info": {
+          "package_name": "com.example.expensetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691197561593-gcovmqu6qtdcdmfsc2mu4cvuuc5bkja4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdXHoA2PvOYbmFPa-WWALPTHja0iQapHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691197561593-gcovmqu6qtdcdmfsc2mu4cvuuc5bkja4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691197561593:android:eb2bb10b3ff4ee61d43028",
+        "android_client_info": {
+          "package_name": "com.monash.expensetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691197561593-gcovmqu6qtdcdmfsc2mu4cvuuc5bkja4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdXHoA2PvOYbmFPa-WWALPTHja0iQapHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691197561593-gcovmqu6qtdcdmfsc2mu4cvuuc5bkja4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
