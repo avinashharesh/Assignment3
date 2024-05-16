@@ -1,4 +1,4 @@
-# Expense Tracker
+# Expense Echo
 Expense Echo is an expense tracker app designed for ease of use. It appeals to those who value
 straightforward, efficient tools without the complications often found in more complex
 software. The app's unique selling point is its simple and user-friendly interface, which
